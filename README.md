@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JennaFar
-- 👀 I’m interested in Reinforcement Learning
+- 👀 I’m interested in Large Language Models (LLMs) and Reinforcement Learning
 - 🌱 I’m currently learning GANs
 - 💞️ I’m looking to collaborate on RL
 
